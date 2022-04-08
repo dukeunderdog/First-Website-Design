@@ -1,6 +1,6 @@
 # First-Website-Design
 *The project is done by HTML and CSS
- *Back-End Development is not included
+*Back-End Development is not included
 
 Nice to Meet u
 
