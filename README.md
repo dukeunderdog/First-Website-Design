@@ -1,9 +1,10 @@
 # First-Website-Design
- The project is done by HTML and CSS
- Back-End Development is not included
-Nice To Meet u!
+*The project is done by HTML and CSS
+ *Back-End Development is not included
 
-#instructions
+Nice to Meet u
+
+# instructions
 -Install The Following Zipped Folder
 -Extract /Unzip the folder
 -Procced to T2Case4 Or T4Case4
